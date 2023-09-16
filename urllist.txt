@@ -1,10 +1,13 @@
+!for all
 $removeparam=utm_source
 $removeparam=utm_medium
 $removeparam=utm_campaign
 $removeparam=utm_content
 
+!bing search
 ||bing.*^$removeparam=pq
 
+!baidubaike
 $removeparam=fromModule
 $removeparam=fromid
 $removeparam=fromtitle
