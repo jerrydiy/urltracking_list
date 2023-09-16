@@ -1,5 +1,5 @@
 ![Adblock Plus 2.0]
-! Title: AdGuard Chinese filter
+! Title: Jerry's urltrackinglist
 ! Description: Jerry's urltrackinglist
 ! Homepage: https://github.com/jerrydiy/urltracking_list
 
